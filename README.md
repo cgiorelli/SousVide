@@ -2,10 +2,28 @@
 
 This code, developed on the Aruindo IDE, turns your Crock-Pot into a Sous-Vide cooker.
 
+##Table of Content
+
+##Intro
+
+####What is Sous-Vide?
+
+https://en.wikipedia.org/wiki/Sous-vide - Start to describe the cooking
+
+####Project Description
+
+Started as a class project
+
+##Code
+
+All code has been deveploped on the Arduino IDE.
+
 ##Wiring Diagrams
 
-###Ardunio Uno
+####Ardunio Uno
 ![Ardunio Wiring Diagram](https://raw.githubusercontent.com/lallo188/SousVide/master/Images/Arduino_Sous-Vide-Wiring-Diagram.png)
+
+####NodeMCU
 
 ###General Relay
 
