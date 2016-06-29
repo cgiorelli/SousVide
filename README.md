@@ -4,9 +4,9 @@ This code, developed on the Aruindo IDE, turns your Crock-Pot into a Sous-Vide c
 
 ##Table of Contents
 
-*[Intro](https://github.com/lallo188/SousVide/blob/master/README.md#intro)
-*[Code](https://github.com/lallo188/SousVide/blob/master/README.md#code)
-*[Wiring Diagrams](https://github.com/lallo188/SousVide/blob/master/README.md#wiring-diagrams)
+* [Intro](https://github.com/lallo188/SousVide/blob/master/README.md#intro)
+* [Code](https://github.com/lallo188/SousVide/blob/master/README.md#code)
+* [Wiring Diagrams](https://github.com/lallo188/SousVide/blob/master/README.md#wiring-diagrams)
 
 ##Intro
 
