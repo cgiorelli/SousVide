@@ -4,11 +4,17 @@ This code, developed on the Aruindo IDE, turns your Crock-Pot into a Sous-Vide c
 
 ##Table of Contents
 
-* [Intro](https://github.com/lallo188/SousVide/blob/master/README.md#intro)
-* [Code](https://github.com/lallo188/SousVide/blob/master/README.md#code)
-* [Wiring Diagrams](https://github.com/lallo188/SousVide/blob/master/README.md#wiring-diagrams)
+&nbsp; [Introduction](https://github.com/lallo188/SousVide/blob/master/README.md#intro) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [What is Sous-Vide?](https://github.com/lallo188/SousVide/blob/master/README.md#what-is-sous-vide) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Project Description](https://github.com/lallo188/SousVide/blob/master/README.md#project-description) <br />
+&nbsp; [Code](https://github.com/lallo188/SousVide/blob/master/README.md#code) <br />
 
-##Intro
+&nbsp; [Wiring Diagrams](https://github.com/lallo188/SousVide/blob/master/README.md#wiring-diagrams) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Arunio Uno](https://github.com/lallo188/SousVide/blob/master/README.md#ardunio-uno)  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [NodeMCU](https://github.com/lallo188/SousVide/blob/master/README.md#nodemcu)  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [General Relay](https://github.com/lallo188/SousVide/blob/master/README.md#ardunio-uno)  <br />
+
+##Introduction
 
 ####What is Sous-Vide?
 
@@ -29,7 +35,7 @@ All code has been deveploped on the Arduino IDE.
 
 ####NodeMCU
 
-###General Relay
+####General Relay
 
 ![Relay Wiring Diagram](https://raw.githubusercontent.com/lallo188/SousVide/master/Images/Relay_Wall_Wiring-Diagram.png)
 
