@@ -12,7 +12,7 @@ This code, developed on the Aruindo IDE, turns your Crock-Pot into a Sous-Vide c
 &nbsp; [Wiring Diagrams](https://github.com/lallo188/SousVide/blob/master/README.md#wiring-diagrams) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Arunio Uno](https://github.com/lallo188/SousVide/blob/master/README.md#ardunio-uno)  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [NodeMCU](https://github.com/lallo188/SousVide/blob/master/README.md#nodemcu)  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [General Relay](https://github.com/lallo188/SousVide/blob/master/README.md#ardunio-uno)  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [General Relay](https://github.com/lallo188/SousVide/blob/master/README.md#general-relay)  <br />
 
 ##Introduction
 
