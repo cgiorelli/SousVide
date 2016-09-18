@@ -1,6 +1,6 @@
 # Crock-Pot Sous-Vide
 
-This code, developed on the Aruindo IDE, turns your Crock-Pot into a Sous-Vide cooker.
+Developed on the Aruindo IDE, this code turns your Crock-Pot into a Sous-Vide cooker.
 
 ##Table of Contents
 
@@ -8,7 +8,6 @@ This code, developed on the Aruindo IDE, turns your Crock-Pot into a Sous-Vide c
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [What is Sous-Vide?](https://github.com/lallo188/SousVide/blob/master/README.md#what-is-sous-vide) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Project Description](https://github.com/lallo188/SousVide/blob/master/README.md#project-description) <br />
 &nbsp; [Code](https://github.com/lallo188/SousVide/blob/master/README.md#code) <br />
-
 &nbsp; [Wiring Diagrams](https://github.com/lallo188/SousVide/blob/master/README.md#wiring-diagrams) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Arunio Uno](https://github.com/lallo188/SousVide/blob/master/README.md#ardunio-uno)  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [NodeMCU](https://github.com/lallo188/SousVide/blob/master/README.md#nodemcu)  <br />
@@ -23,7 +22,7 @@ This code, developed on the Aruindo IDE, turns your Crock-Pot into a Sous-Vide c
 
 ####Project Description
 
-Started as a class project
+The Ardunio version of the project was created as extra-credit for my Digital Control with Embedded Systems class. After having used it, I wanted to make it's footprint on my counter smaller and so that's were the ESP8266 based NodeMCU comes in. Being able to control it wirelessly, and view the progress from anywhere were no brainers; so the NodeMCU version of the project is currently being created.
 
 ##Code
 
