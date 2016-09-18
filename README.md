@@ -18,7 +18,8 @@ This code, developed on the Aruindo IDE, turns your Crock-Pot into a Sous-Vide c
 
 ####What is Sous-Vide?
 
-https://en.wikipedia.org/wiki/Sous-vide - Start to describe the cooking
+> Sous-vide (French for "under vacuum") is a method of cooking in which food is sealed in airtight plastic bags then placed in a water bath or in a temperature-controlled steam environment for longer than normal cooking times (usually 1 to 6 hours, up to 48 or more in some select cases) at an accurately regulated temperature much lower than normally used for cooking, typically around 55 to 60 °C (131 to 140 °F) for meat and higher for vegetables. The intent is to cook the item evenly, ensuring that the inside is properly cooked without overcooking the outside, and retain moisture.
+[- Wikipedia](https://en.wikipedia.org/wiki/Sous-vide)
 
 ####Project Description
 
@@ -26,7 +27,7 @@ Started as a class project
 
 ##Code
 
-All code has been deveploped on the Arduino IDE.
+All code has been deveploped on the Arduino IDE, and can be found in the respective folders above.
 
 ##Wiring Diagrams
 
@@ -34,6 +35,8 @@ All code has been deveploped on the Arduino IDE.
 ![Ardunio Wiring Diagram](https://raw.githubusercontent.com/lallo188/SousVide/master/Images/Arduino_Sous-Vide-Wiring-Diagram.png)
 
 ####NodeMCU
+
+The NodeMCU version of the project is still a work in progess.
 
 ####General Relay
 
