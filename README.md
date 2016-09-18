@@ -37,7 +37,7 @@ All code has been deveploped on the Arduino IDE.
 
 ####General Relay
 
-![Relay Wiring Diagram](https://raw.githubusercontent.com/lallo188/SousVide/master/Images/Relay_Wall_Wiring-Diagram.png)
+![Relay Wiring Diagram](https://raw.githubusercontent.com/lallo188/SousVide/master/Images/Relay_Wall_Wiring_Diagram.png)
 
 **Make sure to unplug all cords from the voltage source when working on them.**
 
