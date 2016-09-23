@@ -28,6 +28,10 @@ The Ardunio version of the project was created as extra-credit for my Digital Co
 
 All code has been deveploped on the Arduino IDE, and can be found in the respective folders above.
 
+####NodeMCU Notes
+
+While the schematic can be found below, the code is still a work in progress and will be uploaded when completed.
+
 ##Wiring Diagrams
 
 ####Ardunio Uno
@@ -35,12 +39,13 @@ All code has been deveploped on the Arduino IDE, and can be found in the respect
 
 ####NodeMCU
 
-The NodeMCU version of the project is still a work in progess.
+![NodeMCU Wiring Diagram](https://raw.githubusercontent.com/lallo188/SousVide/master/Images/NodeMCU_v3-Sous-Vide-Wire_Diagram.png)
+
+An LED may be used to as status indicator, in order to do so just hook it up to an emtpy digital pin.
 
 ####General Relay
 
 ![Relay Wiring Diagram](https://raw.githubusercontent.com/lallo188/SousVide/master/Images/Relay_Wall_Wiring_Diagram.png)
 
-**Make sure to unplug all cords from the voltage source when working on them.**
 
-######This part needs to be done carefully and at one's own risk as main (wall) voltage is used.
+**This part needs to be done carefully and at one's own risk as main voltage is used. Make sure to unplug all cords from the voltage source when working on them.**
